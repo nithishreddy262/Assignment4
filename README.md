@@ -20,7 +20,7 @@ after adding:
 
 ### Step 3: Committed Changes on the New Branch
 
-I made some changes to my markdown file (Assignment4Garikipati.md) on the feature/assignment4 branch and committed them:
+I made some changes to my markdown file (Assignment4nithish.md) on the feature/assignment4 branch and committed them:
 ![Alt text](./screenshots/c1png)
 
 ### Step 4: Pushed the Feature Branch to GitHub
